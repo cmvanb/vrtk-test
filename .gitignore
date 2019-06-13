@@ -1,0 +1,26 @@
+# ===================================================
+# Operating system detritus
+# ===================================================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# Windows recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
+
+# ===================================================
+# Text Editors
+# ===================================================
+
+# Vim
+*.swp
+
+# VSCode
+.vscode/
